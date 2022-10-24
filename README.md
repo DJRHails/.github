@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Logo Header](https://i.imgur.com/MzaxQpN.png?1)](https://hails.info)
+  [![Logo Header](https://user-images.githubusercontent.com/10828202/197594711-4475a268-eba4-4ad5-9015-12dde60048b6.png)](https://hails.info)
   
 </div>
 
