@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Logo Header](https://user-images.githubusercontent.com/10828202/197594711-4475a268-eba4-4ad5-9015-12dde60048b6.png)](https://hails.info)
+  [![Logo Header](https://user-images.githubusercontent.com/10828202/198025685-e76831f9-6d0a-4187-a8cb-5d129548addc.svg)](https://hails.info)
   
 </div>
 
